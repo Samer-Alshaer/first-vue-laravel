@@ -10,7 +10,7 @@ vuejs laravel project I used rest api
 
 </p>
 </details>
-<details><summary>To run php</summary>
+<details><summary>To run php laravel</summary>
 <p>
 
 ```ruby
