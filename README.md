@@ -7,7 +7,7 @@ vuejs laravel project I used rest api
 #### We can hide anything, even code!
 
 ```ruby
-   puts "npm install"
+   npm install
 ```
 
 </p>
