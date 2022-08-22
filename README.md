@@ -1,14 +1,13 @@
 vuejs laravel project I used rest api
 
-Project setup :
-npm install
-<details><summary>CLICK ME</summary>
+
+<details><summary>Project setup</summary>
 <p>
 
 #### We can hide anything, even code!
 
 ```ruby
-   puts "Hello World"
+   puts "npm install"
 ```
 
 </p>
