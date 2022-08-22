@@ -1,0 +1,86 @@
+.bx-con {
+    background-color: rgb(255, 255, 255);
+    border-radius: 5px;
+    padding: 7px 0px;
+    color: #575256;
+    display: flex;
+    justify-content: center;
+}
+
+.bx {
+    padding: 4px;
+    font-size: 22px;
+}
+
+.students-cont {
+    margin: 200px 0px;
+    background-color: #9a9ab433;
+    padding: 28px;
+    border-radius: 6px;
+}
+
+.students-cont form {
+    position: relative;
+}
+
+.navbar-nav > li > a.router-link-exact-active {
+    color: #fffeff !important;
+}
+
+.search-input input {
+    padding: 3px 10px;
+    border: none;
+    border-radius: 5px;
+    width: 500px;
+    margin-bottom: 15px;
+    position: relative;
+}
+
+.search-input input:focus {
+    outline: none;
+}
+
+.light-search-icon {
+    position: absolute;
+    right: 20%;
+    color: #978b8b;
+}
+
+.modal-header {
+    background-color: #d81d85ee;
+    padding: 5px 12px;
+    color: #fff;
+}
+
+.btn-close {
+    background-color: #fff;
+}
+
+.btn-secondary {
+    color: #fff !important;
+    background-color: #6c757d !important;
+    border-color: #6c757d !important;
+    box-shadow: none;
+}
+
+.btn-secondary:focus {
+    box-shadow: none !important;
+}
+
+.btn-primary {
+    cursor: pointer;
+    margin-left: 7px;
+}
+
+.update-cont {
+    margin: 120px 0px;
+}
+
+@media screen and (max-width: 992px) {
+    .logout-btn {
+        padding-left: 7px !important;
+    }
+    .logout-li {
+        margin-left: 0px !important;
+    }
+}
