@@ -1,1 +1,1 @@
-vuejs laravel project I used reset api
+vuejs laravel project I used rest api
